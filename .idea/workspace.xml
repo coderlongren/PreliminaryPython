@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6fddfc0-fc2f-4841-a87a-726d1c98c875" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/listDir.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/makeFile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/read.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/ssd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/test" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex01/numpy/fancyIndex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/next_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/read_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/readline_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/seek_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/test1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/test2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/trancate_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/write_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/writelines_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/searchPY.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/模块/dir.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/模块/hello.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/模块/using_name.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/模块/using_name1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/模块/using_sys.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/错误，调试和测试/TestDom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/错误，调试和测试/test1.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pythonWorkingspace.iws" />
@@ -29,53 +41,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="makeFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python平时的小脚本/makeFile.py">
+      <file leaf-file-name="readline_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/File/readline_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding>
-                <element signature="e#43#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="read.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python平时的小脚本/read.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="25" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python平时的小脚本/test">
+      <file leaf-file-name="seek_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/File/seek_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ssd" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python平时的小脚本/ssd">
+      <file leaf-file-name="trancate_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/File/trancate_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listDir.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python平时的小脚本/listDir.py">
+      <file leaf-file-name="write_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/File/write_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="writelines_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/File/writelines_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchPY.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python平时的小脚本/searchPY.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08223684">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/File/test2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/File/read_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/File/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/File/test1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,14 +174,31 @@
         <option value="$PROJECT_DIR$/Python平时的小脚本/makeFile.py" />
         <option value="$PROJECT_DIR$/Python平时的小脚本/ssd" />
         <option value="$PROJECT_DIR$/Python平时的小脚本/listDir.py" />
+        <option value="$PROJECT_DIR$/模块/using_sys.py" />
+        <option value="$PROJECT_DIR$/模块/using_name.py" />
+        <option value="$PROJECT_DIR$/模块/using_name1.py" />
+        <option value="$PROJECT_DIR$/模块/dir.py" />
+        <option value="$PROJECT_DIR$/模块/hello.py" />
+        <option value="$PROJECT_DIR$/错误，调试和测试/test1.py" />
+        <option value="$PROJECT_DIR$/错误，调试和测试/TestDom.py" />
+        <option value="$PROJECT_DIR$/File/read_test.py" />
+        <option value="$PROJECT_DIR$/File/next_test.py" />
+        <option value="$PROJECT_DIR$/File/readline_test.py" />
+        <option value="$PROJECT_DIR$/File/seek_test.py" />
+        <option value="$PROJECT_DIR$/File/test1.txt" />
+        <option value="$PROJECT_DIR$/File/trancate_test.py" />
+        <option value="$PROJECT_DIR$/File/write_test.py" />
+        <option value="$PROJECT_DIR$/File/test.txt" />
+        <option value="$PROJECT_DIR$/File/writelines_test.py" />
+        <option value="$PROJECT_DIR$/Python平时的小脚本/searchPY.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="440" />
-    <option name="y" value="18" />
+    <option name="x" value="709" />
+    <option name="y" value="56" />
     <option name="width" value="1401" />
-    <option name="height" value="992" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -170,94 +247,117 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonWorkingspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonWorkingspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="错误，调试和测试" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.makeFile">
-    <configuration default="false" name="test2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonWorkingspace\File" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.writelines_test">
+    <configuration default="false" name="readline_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex01/numpy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonWorkingspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex01/numpy/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File/readline_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="odd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="seek_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonWorkingspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex01/odd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File/seek_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="fancyIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="trancate_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex01/numpy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonWorkingspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex01/numpy/fancyIndex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File/trancate_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="makeFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="write_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python平时的小脚本" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonWorkingspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python平时的小脚本/makeFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File/write_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="read" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="writelines_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python平时的小脚本" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonWorkingspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python平时的小脚本/read.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File/writelines_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -385,19 +485,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test2 (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.odd" />
-      <item index="2" class="java.lang.String" itemvalue="Python.fancyIndex" />
-      <item index="3" class="java.lang.String" itemvalue="Python.makeFile" />
-      <item index="4" class="java.lang.String" itemvalue="Python.read" />
+      <item index="0" class="java.lang.String" itemvalue="Python.readline_test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.seek_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.trancate_test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.write_test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.writelines_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.makeFile" />
-        <item index="1" class="java.lang.String" itemvalue="Python.read" />
-        <item index="2" class="java.lang.String" itemvalue="Python.fancyIndex" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test2 (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.odd" />
+        <item index="0" class="java.lang.String" itemvalue="Python.writelines_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.write_test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.trancate_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.seek_test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.readline_test" />
       </list>
     </recent_temporary>
   </component>
@@ -418,11 +518,17 @@
       <option name="project" value="LOCAL" />
       <updated>1512958847688</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add from pyCharm">
+      <created>1512958967535</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1512958967535</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="440" y="18" width="1401" height="992" extended-state="0" />
+    <frame x="709" y="56" width="1401" height="1055" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13810557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -432,11 +538,11 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3282887" sideWeight="0.49746928" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30585682" sideWeight="0.49746928" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -657,6 +763,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python平时的小脚本/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm50/system/python_stubs/1099968596/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/using_sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/using_name1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/using_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python平时的小脚本/ssd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python平时的小脚本/read.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -675,26 +853,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python平时的小脚本/test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python平时的小脚本/ssd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python平时的小脚本/listDir.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/错误，调试和测试/TestDom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/错误，调试和测试/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/next_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/read_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/readline_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="25" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/seek_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/test1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/trancate_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/write_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/writelines_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python平时的小脚本/searchPY.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08223684">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
