@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6fddfc0-fc2f-4841-a87a-726d1c98c875" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/listDir.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/makeFile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/read.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/ssd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex01/numpy/fancyIndex.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex01/numpy/test2.py" afterPath="$PROJECT_DIR$/ex01/numpy/test2.py" />
     </list>
     <ignored path="pythonWorkingspace.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,8 +118,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="384" />
-    <option name="y" value="22" />
+    <option name="x" value="440" />
+    <option name="y" value="18" />
     <option name="width" value="1401" />
     <option name="height" value="992" />
   </component>
@@ -408,14 +412,22 @@
       <option name="number" value="Default" />
       <updated>1511520321428</updated>
     </task>
+    <task id="LOCAL-00001" summary="add from pyCharm">
+      <created>1512958847688</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512958847688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="384" y="22" width="1401" height="992" extended-state="0" />
+    <frame x="440" y="18" width="1401" height="992" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13810557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282887" sideWeight="0.50253075" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -443,6 +455,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add from pyCharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="add from pyCharm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -519,6 +535,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -617,6 +636,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
