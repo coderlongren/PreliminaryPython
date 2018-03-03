@@ -2,35 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6fddfc0-fc2f-4841-a87a-726d1c98c875" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BaiduFanyi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/deleteKongge.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/reSort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/readFile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/readMysql.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/testJson.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/testSearch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/updateSql.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python平时的小脚本/writeJson.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fanyi2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsonToDic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testEncoding.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/writeLevel6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/写入toefl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/处理分号.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/处理长度.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/替换字符.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/自己的单词库/test1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/自己的单词库/从数据库生成单词.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/自己的单词库/去重.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/自己的单词库/必应搜索.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/自己的单词库/获取文件名.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/自己的单词库/远程获得MP3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/读取Excel文件.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/错误，调试和测试/testEncoding.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pythonWorkingspace.iws" />
@@ -81,8 +52,8 @@
       <file leaf-file-name="远程获得MP3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/自己的单词库/远程获得MP3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7895623">
-              <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.70538723">
+              <caret line="120" column="60" selection-start-line="120" selection-start-column="60" selection-end-line="120" selection-end-column="60" />
               <folding>
                 <element signature="e#46#55#0" expanded="true" />
                 <element signature="e#264#2486#0" expanded="false" />
@@ -126,6 +97,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="coderlong" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
@@ -560,7 +536,13 @@
       <option name="project" value="LOCAL" />
       <updated>1519824318063</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="增加了 从必应爬单词的程序">
+      <created>1520082070924</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1520082070924</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -580,16 +562,16 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15208334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282887" sideWeight="0.50253075" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.315847" sideWeight="0.49746928" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.315847" sideWeight="0.49746928" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24724603" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -612,7 +594,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add from pyCharm" />
     <MESSAGE value="2017/12/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2017/12/11" />
+    <MESSAGE value="增加了 从必应爬单词的程序" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了 从必应爬单词的程序" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1270,6 +1253,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1277,6 +1261,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2831257">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#14#32#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1336,6 +1323,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8493771">
           <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="e#46#55#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1343,6 +1333,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.3306909">
           <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+          <folding>
+            <element signature="e#46#55#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1350,6 +1343,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.50962627">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#46#55#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1425,8 +1421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/自己的单词库/远程获得MP3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7895623">
-          <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.70538723">
+          <caret line="120" column="60" selection-start-line="120" selection-start-column="60" selection-end-line="120" selection-end-column="60" />
           <folding>
             <element signature="e#46#55#0" expanded="true" />
             <element signature="e#264#2486#0" expanded="false" />
